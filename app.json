@@ -1,5 +1,5 @@
 {
-  "name": "DML-BOT",
+  "name": "DML-MD",
   "description": "Javascript WhatsApp bot made by Daudy",
   "logo": "https://url.bwmxmd.online/Adams.t2dpkvu3.jpg",
   "keywords": ["DML-MD"],
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "DML-XTECH"
+      "value": "DML-TECH"
     }, 
       
     "PREFIX": {
